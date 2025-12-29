@@ -4,24 +4,24 @@ import sys
 from groq import Groq
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_huggingface import HuggingFaceEmbeddings
+# CHANGE: Using FastEmbed instead of HuggingFace (Prevents Crashing)
+from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 from langchain_community.vectorstores import FAISS
 
 # --- FORCE LOGGING ---
 sys.stdout.reconfigure(line_buffering=True)
 
 # --- CONFIGURATION ---
-DATA_FOLDER = "knowledge"  # Name of your folder
+DATA_FOLDER = "knowledge"
 MODEL_NAME = "llama3-70b-8192"
 
-print("--- BOT STARTING UP ---")
+print("--- BOT STARTING UP (FastEmbed Edition) ---")
 
-# --- 1. SETUP KNOWLEDGE BASE (FOLDER EDITION) ---
+# --- 1. SETUP KNOWLEDGE BASE ---
 documents = []
 
 if os.path.exists(DATA_FOLDER):
     print(f"Scanning folder: {DATA_FOLDER}...")
-    # Loop through every file in the folder
     for filename in os.listdir(DATA_FOLDER):
         if filename.endswith(".txt"):
             file_path = os.path.join(DATA_FOLDER, filename)
@@ -37,13 +37,14 @@ if os.path.exists(DATA_FOLDER):
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
         chunks = text_splitter.split_documents(documents)
         
-        # Create the Brain
+        # Create the Brain using FastEmbed (Lightweight & Fast)
         print(f"Indexing {len(chunks)} knowledge chunks...")
-        embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        # This downloads a tiny 100MB model instead of the 2GB one
+        embeddings = FastEmbedEmbeddings(model_name="BAAI/bge-small-en-v1.5")
         vector_store = FAISS.from_documents(chunks, embeddings)
         print("SUCCESS: Knowledge Index Created!")
     else:
-        print("WARNING: No .txt files found in the folder!")
+        print("WARNING: No .txt files found in knowledge folder!")
         vector_store = None
 else:
     print(f"WARNING: Folder '{DATA_FOLDER}' not found.")
@@ -54,15 +55,11 @@ intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
 
-groq_key = os.environ.get("GROQ_API_KEY")
-if not groq_key:
-    print("CRITICAL ERROR: GROQ_API_KEY is missing from Zeabur Variables!")
-
-groq_client = Groq(api_key=groq_key)
+groq_client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
 @client.event
 async def on_ready():
-    print(f'Logged in as {client.user} (ID: {client.user.id})')
+    print(f'Logged in as {client.user}')
 
 @client.event
 async def on_message(message):
@@ -78,11 +75,9 @@ async def on_message(message):
                 # A. SEARCH
                 context_text = ""
                 if vector_store:
-                    # Retrieve top 4 relevant chunks (More info for better answers)
                     results = vector_store.similarity_search(user_question, k=4)
                     for res in results:
                         context_text += res.page_content + "\n\n"
-                    print("Context found.")
                 
                 # B. THINK
                 system_prompt = f"""You are an expert Reselling Assistant. 
@@ -94,7 +89,6 @@ async def on_message(message):
                 INSTRUCTIONS:
                 1. Answer STRICTLY based on the Context.
                 2. If the answer is not in the Context, say "I don't have that info."
-                3. Keep it professional.
                 """
 
                 completion = groq_client.chat.completions.create(
