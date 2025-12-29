@@ -3,7 +3,7 @@ import os
 import sys
 from groq import Groq
 from langchain_community.document_loaders import TextLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 # CHANGE: Using FastEmbed instead of HuggingFace (Prevents Crashing)
 from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 from langchain_community.vectorstores import FAISS
