@@ -3,6 +3,5 @@ groq
 python-dotenv
 langchain
 langchain-community
-langchain-huggingface
+fastembed
 faiss-cpu
-sentence-transformers
