@@ -13,7 +13,7 @@ sys.stdout.reconfigure(line_buffering=True)
 
 # --- CONFIGURATION ---
 DATA_FOLDER = "knowledge"
-MODEL_NAME = "mixtral-8x7b-32768"
+MODEL_NAME = "llama-3.3-70b-versatile"
 
 print("--- BOT STARTING UP (FastEmbed Edition) ---")
 
