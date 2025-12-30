@@ -1,0 +1,720 @@
+eBay Guide
+eBay is one of the largest and most well-known online marketplaces, offering
+sellers a powerful platform to reach a massive global audience. It can be
+especially useful for selling designer goods and high-demand products due to the
+site’s credibility and buyer traffic. However, eBay has some of the strictest rules
+among major marketplaces when it comes to listings, account behavior, and
+policy enforcement. Because of this, you must be very calculated and cautious in
+how you use the platform, especially if you're selling items that could be flagged
+as branded, luxury, or potentially in violation of their policies.This guide will give
+you a full breakdown of how to navigate eBay safely and strategically. You will
+learn how to create and warm up an account so that it doesn’t get suspended
+early on, how to list your items in a way that avoids red flags, and how to handle
+orders, shipping, and customer interactions without triggering violations or
+unwanted attention.
+
+Understanding eBay Accounts
+There are three types of eBay accounts you can have:
+•
+•
+•
+
+Personal Account – Your own eBay account.
+Family Member or Friend’s Account – Using someone else’s account
+with their permission.
+Stealth Account – A last-resort option requiring anonymity.
+
+Keeping Your Account Safe
+To ensure the longevity of your eBay account, follow these precautions:
+•
+•
+•
+
+•
+
+•
+
+•
+
+1
+
+Don’t only list designer or branded products. Doing this can alert eBay’s
+system and lead to your account getting suspended.
+After creating a new account, don’t list anything right away. Wait at least a
+few weeks—or ideally a couple of months—before adding your first product.
+Begin by listing common household items. Things like used books, gift wrap,
+or PlayStation controllers work well. Price them high to reduce the chances
+of them actually selling.
+Once you’ve had some normal activity, you can start listing designer goods.
+Make sure to include regular items alongside branded ones (for example, for
+every one or two branded items, include one unbranded item).
+Buy a few items regularly through the account. Buyer feedback adds to
+your seller reputation, and both types of feedback help strengthen your
+profile.
+If you’re managing multiple eBay accounts, always clear out image data
+(EXIF) from your photos. This prevents eBay from detecting that the same
+photos are being reused across accounts.
+
+Overview
+Before we go any further, it’s important to understand the top three ways eBay
+connects your new accounts to any previous ones that have been suspended or
+limited.
+We’ll get into the details later, but for now, just know this: if a new account gets
+linked to one that’s already been suspended or flagged, it’ll also get shut down.
+You may have already experienced this if you’ve tried creating new accounts
+and got hit with that “abusing eBay” message almost instantly.
+So, how does this linking happen?ù
+Here are the three most common methods eBay uses to connect accounts:
+•
+•
+
+•
+
+IP Address – Logging into different accounts using the same IP address can
+create a link.
+Browser and Flash Cookies – Every time you log into eBay, they drop
+tracking cookies on your device. If you access multiple accounts without
+clearing these or using separate computer profiles, eBay can detect it. We’ll
+go over how to avoid this shortly.
+Personal Information – Any details like your phone number, mailing address,
+credit card, email, or bank info can connect your accounts if reused.
+
+Creatingand Warming Up a New eBay Account
+Step 1: Setting Up a New User Profile
+For every eBay account you want to run, set up a separate user profile on your
+computer. This helps keep browser cookies and flash data isolated, which is
+important for preventing eBay from linking your accounts.
+Another reason this helps is because eBay may flag your account if it notices
+cookies or browser data getting deleted too often. When you use individual user
+profiles for each account, all the cookies stay separate and intact, which keeps
+eBay happy and avoids unnecessary verification checks.
+Remember: eBay and PayPal track you using your IP address, browser cookies,
+and Flash objects. The best way to avoid getting your accounts connected is to
+stick with completely separate user profiles for every single eBay account. This
+also means you won’t need to constantly delete cookies or worry about crosscontamination.
+
+2
+
+The only thing you need to be careful about is using a different IP address for
+each account when logging in. That’s what we’ll cover next.
+Once your new computer user profile is set up and you’ve understood how to
+keep the account safe, your next task is to change your IP address.
+
+Step 2: Resetting Your IP Address
+Since eBay monitors your IP address, changing it is critical when setting up a new
+account. There are several ways to do this safely:
+Option 1: Changing Your Router MAC Address
+If you’re using a setup with a modem, a router, and a computer, your
+internet runs through the router connected to the modem. To get a fresh IP
+address, you can simply change your router’s MAC address and reset the
+modem. This might sound technical, but it’s actually quick and very
+effective.
+1.
+2.
+3.
+4.
+
+Visit IPBurger.com and note your current IP address.
+Access your router’s setup page (default IP: 192.168.0.1).
+Log in (default credentials are often admin/password).
+Find the WAN MAC address and change the last 1–2 digits.
+Once you find it, all you need to do is change the last one or two digits of
+your MAC address and save your settings. For example, if your router's
+MAC address is 0B:0C:0B:0D:0C:06, you can change it to
+0B:0C:0B:0D:0C:07, then save your settings.
+
+5. Save settings and restart your router.
+6. Unplug your modem for 15 seconds, then power it back on.
+7. Check your new IP address on IPBurger.com.
+8. Keep a log of IP addresses to avoid reusing old ones.
+How to Retain an IP Address with Your MAC Address:
+If you want to reuse a certain IP later, save the MAC address you used to
+get it. That way, you can go back to it anytime by simply switching the MAC
+address in your router settings and restarting the modem. Be aware that IPs
+don’t last forever—they can change on their own after a while. Stay
+organized to avoid confusion.
+
+3
+
+Option 2: Router Swapping
+This method is exactly what it sounds like. Buy a few cheap routers
+(NETGEAR is a solid brand), and switch them out as needed. Each router
+has its own MAC address, which helps generate a new IP when you reset
+the modem. This method saves time since you don’t need to change
+settings manually.
+Steps:
+• Get several routers with different MAC addresses.
+• Switch routers whenever you want to change your IP.
+• Restart your modem after each swap.
+• Connect to the new network to get your fresh IP.
+Option 3: VPN Connection
+A VPN creates a private tunnel between your device and the VPN server. It
+gives you a new IP address and encrypts your internet traffic, even hiding it
+from your internet provider. VPNs are useful for more than just eBay,
+especially if you’re blocked from using certain sites or apps.
+However, VPNs are best for international users or those who have no other
+way to get a new IP. If possible, try dial-up or the router methods first. Also,
+if you use a VPN, go with a static IP instead of a dynamic one to reduce
+inconsistencies.
+•
+•
+•
+
+Use a VPN with a static IP address for better stability.
+VPNs encrypt your traffic, making tracking harder.
+Dial-up connections can be used as a last resort.
+
+Avoid Using Proxies
+Proxies are not reliable. They’re more likely to get your account flagged.
+Stick with router, dial-up, or VPN methods instead..
+
+4
+
+Keepinga Log of Your IP Addresses
+
+..........
+CommandPrompts That'llHelp!
+•
+•
+•
+•
+•
+
+ipconfig – Displays your IP configuration.
+ipconfig /all – Shows all information about your IP configuration.
+ipconfig /renew – Renews your IP address.
+ipconfig /release – Releases your IP address.
+ipconfig /help – Displays other ipconfig commands.
+
+Creating a New eBay Account
+Option 1: Using a Family Memberor Friend’sDetails
+Use their full name, date of birth, and optionally, their address.
+It’s best if this person hasn’t already made an eBay account. That way,
+there’s no risk of accounts getting linked through shared details.
+One big advantage of this method is that you can easily access verification
+documents like an ID if needed.
+
+•
+•
+•
+
+Option 2: Using a Nickname or Name Variation
+•
+•
+
+You can also go with a nickname or a small variation of your real name
+(like using “Bobby” instead of “Robert”).
+Keep in mind that banks and payment processors might reject
+transfers if the name on your account is too different from the one on
+your bank details. Try to keep the variation close to your actual
+identity.
+
+Listing Your Designer Items
+When listing designer products, follow these best practices:
+•
+
+5
+
+Avoid stock photos; take high-quality images yourself.
+
+•
+•
+•
+
+Use listing titles like “AUTH & NEW,” “AUTH & RECEIPT,” or “AUTH &
+INVOICE” to indicate authenticity.
+Mention in the description that full packaging and invoices are included.
+Provide details on where the item was purchased.
+
+Fulfillment and Handling Time
+•
+•
+•
+
+Always ship your items with tracking. This helps protect you if a buyer
+opens a case or claims an item wasn’t received.
+Set a realistic handling time for yourself—don’t promise next-day shipping if
+you can’t keep up with it.
+Make sure you stick to your chosen handling time. Missing your shipping
+window can lead to penalties or restrictions on your account..
+
+Increasing Selling Limits
+•
+•
+•
+
+New accounts have low selling limits.
+Warm up your account before requesting limit increases.
+Use services on Fiverr to raise limits safely.
+
+Managing Your Account Post-Creation
+Waiting Period Before Selling
+•
+•
+
+Ideally, wait around 30 days before you start listing high-risk items like Louis
+Vuitton bags or electronics.
+If you can’t wait that long, you can start listing within 2 to 3 days—but know
+that this comes with more risk.
+
+Sales Strategy
+•
+•
+•
+•
+
+Spread out your listings by using multiple eBay accounts.
+Start slow: list one item per week to begin with.
+Once each item ends, wait a few days before posting the next one. Repeat
+this pattern for several cycles.
+After each sale, give the account time to cool down before listing again.
+
+Tips on Staying Under the Radar & Avoiding Violations on eBay
+Rotate and Cool Down Accounts
+•
+•
+
+6
+
+After selling a high-risk item, stop using that account for a few days—
+ideally 3, 5, or even 7. The longer you wait, the safer it is.
+If you have multiple accounts, rotate between them so you’re not using
+one too often.
+
+Make Every Account Unique
+•
+•
+
+Don’t copy listings across accounts. Use different product titles,
+descriptions, photos, categories, and shipping methods.
+Duplicate content is a red flag for eBay and could link your accounts..
+
+Change Listing Details
+•
+•
+•
+
+List items in different categories (e.g., if you previously listed a wallet as a
+"clutch" wallet, now list it as an "other" wallet).
+Modify the title wording to make each listing unique.
+Adjust fonts, sizes, layouts, and item descriptions to make them
+distinct.
+•
+•
+
+•
+
+Example: One listing has pink text and a detailed return policy, while
+another uses eBay’s auction templates with different image hosting.
+Another variation: A black background with white text, a shorter
+description, and an all-caps title.
+
+Be creative—make each account appear as a completely different seller!
+
+Vary Shipping Methods & Costs
+•
+
+Change the shipping service and cost for every account.
+•
+•
+•
+
+Example 1: Use UPS for $12 local and $30 international.
+Example 2: Use your country’s postal service and only offer local
+shipping at $10.94.
+Example 3: Use a generic courier for $13.25 local and $34.25
+international.
+
+Use Promotional Features Strategically
+•
+•
+
+Add bold, borders, featured listings,or other promotionaltools
+occasionally.
+Using Buy It Now with an offer feature can speed up sales:
+•
+•
+•
+
+•
+
+Set the Buy It Now price close to retail.
+Enable automatic offer acceptance at a pre-set price.
+This method reduces listing time and minimizes exposure to eBay’s
+VERO system and manual reviews.
+
+Change listing durations too. Don’t use the same timeline every time. Mix it
+up between 5, 7, or 10 days.
+
+Revise Listings Smartly
+7
+
+• When editing an existing listing, consider adding something like a
+promotional feature o make the update look natural.
+• Avoid making the same kind of edit repeatedly without changing anything
+else. If you keep revising listings the exact same way every time, eBay might
+think you’re trying to manipulate the system.
+• Don’t fall into a pattern. Switch it up occasionally to avoid raising suspicion.
+Manage Account Activity Wisely
+•
+•
+•
+
+Do not withdraw all your earnings at once; always leave some funds in your
+account.
+If selling high-risk items, process withdrawals after entering a tracking
+number for the order.
+A safe balance to keep in your account is around $80-$150 to maintain a
+trustworthy seller profile.
+
+Feedback
+Avoid Buying One-Cent eBooks
+•
+•
+
+Buying ultra-cheap digital products used to be a quick way to get
+feedback.
+But eBay has caught onto this trick. If you buy too many cheap items in a
+short time, your account can be suspended for feedback abuse.
+
+Safest Way to Gain Feedback
+•
+
+Instead of digital items, buy small, physical products that can be shipped.
+Good examples include:
+•
+•
+•
+•
+•
+•
+
+•
+
+Stamps
+Coins
+Beads
+Baseballcards
+Trading cards
+Used books
+
+Do not buy too many cheap items at once. Purchasing one or two lowcost items per day is acceptable, but anything excessive may trigger an
+account limitation for feedbackmanipulation.
+
+How to Find Affordable Items for Feedback
+1. Go to eBay.com and use the search box.
+2. Select the "Everything Else" category (found at the bottom of the
+category list).
+3. Choose any subcategory and initiate a search.
+8
+
+4. Locate the drop-down box on the right side above the first search result.
+5. Select "Price + Shipping: Lowest First."
+6. Look for items priced at $1 or more and bid on them or use Buy It Now.
+7. After purchasing, wait a few days before leaving feedback.
+Important: Do not buy items priced under $1. eBay watches for this and
+could flag you for trying to manipulate feedback.
+
+Do You Really Need Easy Feedback?
+•
+•
+•
+
+If your goal is to get more feedback just to boost your account, think
+twice.
+Feedback is not what drives sales or gets higher prices.
+Having a professional-looking listing and answering buyer questions is
+far more effective for building trust.
+
+Final Recommendations
+•
+•
+
+If you must increase feedback, purchase tangible items valued at $1 or
+more every few days.
+Do not buy more than one or two items per day for feedback purposes.
+
+Suspensions, Violations, Limitations & Getting
+Reinstated
+Types of Suspensions and How to Be Reinstated
+Some eBay suspensions can be lifted by following the appeal steps they
+provide. But different types of suspensions require different responses.
+Seller Non-Performance
+•
+•
+•
+
+If buyers complain about your service or you have a low feedback score,
+eBay might suspend your account for poor performance.
+Resolving issues, settling disputes, and collecting more positive feedback
+can help restore access.
+Check the feedback tips earlier in this guide if you need help improving
+your score.
+
+Non-Payment
+•
+
+9
+
+If your account is limited because you owe eBay fees, just pay the
+balance. Once your payment clears, your account should be
+restored.
+
+Shill Bidding
+•
+•
+•
+
+If eBay catches you bidding on your own listings to raise the price, they
+may issue a short-term suspension.
+These suspensions usually expire on their own after a few days, or after
+you submit certain forms.
+Avoid doing this again—repeat violations can result in a permanent ban.
+
+Listing Violations
+Competitor-Flagged Listings
+•
+•
+
+If you’re in a competitive market, some sellers may flag your listings to try
+and get them removed.
+If you think this is happening unfairly, you can report the competitor to
+eBay too.
+
+VeRO (Verified Rights Owner Program) Violations
+This happens when a brand owner reports your listing, claiming their rights were
+violated.
+A few VeRO removals can get your account permanently banned.
+If You Sell Authentic Items
+•
+•
+•
+
+Contact the VeRO rights holder directly.
+Some companies prohibit reselling specific items, including limited
+editions, packaging, dust bags, certificates, and receipts.
+Include as much proof of authenticity as possible, such as:
+•
+•
+•
+•
+
+Supplier invoices
+Serial numbers
+Close-up photos
+Verification statements from authorized dealers
+
+If Your Items Are Not Authentic
+•
+•
+•
+
+Even if the quality is excellent, stop listing the item on that account for a
+few weeks.
+Post the item from a different account instead.
+Follow the stealth and safety tips earlier in this guide to reduce risk.
+
+Trademark Violations
+•
+
+10
+
+Trademark violations are less severe than VeRO violations.
+
+•
+•
+•
+
+If your account is well-established, you might be able to take a few hits
+without being banned.
+For new accounts, one or two violations could lead to a week-long
+suspension.
+If you get a warning, stop selling the item that got flagged and avoid
+relisting it for at least 30 days.
+
+Suspensions and Getting Reinstated
+If you receive a 7-day or 14-day suspension, follow these steps:
+1. Do not use the suspended account until the suspension period is over.
+2. Use an unlinked backup account to continue selling.
+3. Try calling eBay at one of these numbers for assistance:
+•
+•
+•
+
++1-866-540-3229
++1-877-322-9227
++1-866-961-9253
+
+Account Limitations
+eBay may limit your account due to:
+•
+•
+•
+•
+
+Non-Payment
+Seller Non-Performance
+VeRO Violations
+Perceived High-Risk Selling
+
+To lift these limitations, eBay may request the following:
+•
+•
+•
+•
+•
+
+A copy of your driver’s license
+Receipts or invoices for the products you’re selling
+A credit card statement
+Completion of a VeRO compliance test
+Signed documents acknowledging eBay’s terms
+
+Providing these documents greatly increases your chances of account
+reinstatement.
+
+Tips for a Successful Reinstatement Request
+Be Patient
+•
+•
+
+11
+
+Do not spam eBay with multiple email submissions.
+Reinstatement may take up to two weeks.
+
+•
+
+If you haven’t received a response after two weeks, you may resend your
+documents.
+
+Submit Clear and Legible Documents
+•
+•
+
+Blurry or unreadable documents will delay the process.
+Ensure all required information is visible before submitting.
+
+Remain Professional and Polite
+•
+•
+•
+
+Do not send angry or demanding emails.
+Reinstatement is at eBay’s discretion, and being respectful increases your
+chances of success.
+Provide any additional information they request promptly.
+
+Why I Got Linked/Suspended – And How to Avoid It
+in the Future
+Your Account is Suspended
+You might feel like your account was solid—everything looked good—then
+suddenly, it’s suspended. This happens more than you think. Let’s break
+down common reasons accounts get banned and what you can do to
+avoid repeating those mistakes.
+
+Common Reasons for Getting Linked or Suspended
+• Changing your account info under a new IP – If eBay sees updated
+account details while you're on a different IP, they may think your account
+has been hacked and temporarily lock it. A quick call to eBay usually
+clears this up.
+• Using a shared network that had a suspended account – Just being on
+the same internet as a banned account might not link you, but if you
+reused details like addresses, you could get flagged.
+• Reusing an address or sharing it with buyers – If you use a mailing address
+tied to a suspended account, eBay could connect the dots. If someone
+recognizes your return address, they might report you. To avoid this, use a
+business alias (DBA name) on your return label.
+• Inconsistent info between eBay, PayPal, and your cards – If your name,
+address, or phone number don’t match across platforms, it looks
+suspicious. Try to keep your details as consistent as possible.
+• Using the same PayPal account for multiple eBay accounts – Even without
+logging in, transactions can link accounts. You can usually only connect
+two eBay accounts to one PayPal before risking a ban.
+12
+
+•
+•
+
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+13
+
+Using the same credit card on different eBay accounts – That’s a
+guaranteed way to get linked and suspended.
+Logging into multiple accounts from the same IP or browser session – This
+is one of the easiest ways eBay links accounts. Always use separate user
+profiles and switch IPs.
+Getting too many buyer complaints – If your feedback score drops, eBay
+may put selling limits on your account until you fix the issues.
+Reusing a phone number from a past account – Never do this. Use a fresh,
+clean number every time.
+Listing too much too soon – Especially risky with electronics or luxury
+goods. Take it slow.
+Shill bidding – If you bid on your own listings and get caught, you could be
+suspended temporarily or permanently.
+Buying lots of low-value ebooks or digital items – eBay sees this as
+feedback manipulation. They’ve cracked down on it hard, and reinstatement
+is unlikely.
+Using proxy or IP-hiding software – These methods are outdated and
+unreliable. They often trigger eBay’s “abusing the platform” warnings.
+Reusing the same listing titles, images, or descriptions from banned
+accounts – These can all be tracked and reported by competitors or eBay
+itself.
+Logging into a suspended account before a new one – If you do this, your
+new account is likely to be flagged.
+Flooding your account with listings on day one – Uploading 20 items like
+iPhones right away is almost guaranteed to trigger a suspension. Be patient.
+Using official eBay tools like Turbo Lister – These can be risky. Consider
+using alternatives like Auctiva.
+Sending rude or aggressive messages to eBay – Always be respectful. A
+bad attitude can work against you.
+Reusing anything tied to a suspended account – That includes passwords,
+emails, names, addresses, or even item images.
+Listing while your account is in suspension – That’s a direct violation.
+Pulling too much money out of PayPal at once – Withdraw funds gradually
+to avoid suspicion.
+Getting flagged by a competitor – This happens more than people think.
+Stay professional and discreet to reduce the risk.
+
+If your account has stayed clean for a month or two, and you’ve avoided all of
+the above, you’re usually safe—just don’t slip up.
+
+How to Stay Safe and Avoid Suspensions
+•
+•
+•
+•
+•
+
+14
+
+Always have backup accounts ready – Don’t rely on just one account. If
+something goes wrong, you need another profile ready to go.
+Use different user profiles on your computer – This keeps cookies and data
+separate for each account, helping prevent links.
+Change your IP address when switching accounts – Never log into multiple
+eBay accounts using the same IP. Rotate them properly.
+List items carefully – Start slow, especially if you’re selling high-risk products.
+Ease into things rather than flooding your account with listings.
+Be respectful with eBay support – Staff members have the final say on
+whether your account stays active or gets banned. Being polite and
+professional increases your chances if you ever need help.
+
+

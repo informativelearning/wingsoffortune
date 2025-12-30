@@ -1,0 +1,746 @@
+📊 eBay & Depop Reseller Tax Guide (U.S.)
+👤 Who Needs to File?
+If you make:
+
+$600+ in gross sales (after Jan 1, 2024), platforms like eBay and Depop will send you a 1099-K
+
+Doesn’t matter if it’s profit — you still have to report it
+
+🧾 How to Pay Taxes as a Reseller
+Report income on your personal tax return
+
+If you’re a solo reseller, use Schedule C on your 1040
+
+If you have an LLC or S corp, it’ll be reported differently — but it still flows to your personal taxes
+
+You only get taxed on profit, not total sales
+
+That means you can subtract expenses from your total income
+
+🧠 What Can You Write Off (Expenses)?
+Here are 100% legal deductions that lower your taxable income:
+
+Expense Type                   Example
+🧾 Cost of Goods Sold    What you paid for inventory
+📦 Shipping Supplies    Boxes, tape, poly mailers
+📬 Postage Costs         USPS/UPS labels, shipping fees
+🖥 Selling Fees                 eBay, Depop, PayPal fees
+📱 Business Tools         View bots, Canva, Google Drive, etc.
+🏠 Home Office %        If you work from home (portion of rent, wifi)
+📶 Phone/Internet        Portion if used for business
+🚗 Mileage/Travel        Driving to source, drop-offs
+💳 Subscriptions       eBay Store fee, Depop Boost, etc.
+🧹 Returns/Losses        Items lost, broken, or refunded
+
+You must keep receipts or a digital record (screenshots, PDFs, spreadsheets, etc.)
+
+💰 How to Pay Taxes
+If you're self-employed:
+You’ll owe income tax + self-employment tax (15.3%)
+
+To avoid penalties, make quarterly estimated payments:
+
+Quarter    Income Period    Payment Due By
+Q1    Jan 1 – Mar 31    April 15
+Q2    Apr 1 – May 31    June 15
+Q3    Jun 1 – Aug 31    September 15
+Q4    Sep 1 – Dec 31    January 15
+
+Use IRS Form 1040-ES to pay
+
+📂 How to Track Everything
+Keep a simple spreadsheet or use apps like:
+
+QuickBooks Self-Employed
+
+Keeper Tax
+
+Wave Accounting (free)
+
+Or just use Google Sheets with columns like:
+
+Date    Description    Amount    Type (Expense/Income)    Platform
+
+
+📦 MUST-HAVE SHIPPING & PACKAGING SUPPLIES 🖨️ Thermal Printer (No ink needed – works with thermal labels) Rollo Label Printer – Fast, reliable, and perfect for all platforms Search: “Rollo Label Printer for Shipping” ✅ Works with USPS, UPS, FedEx, eBay, etc.
+
+📏 Shipping Scale Digital Shipping Postal Scale (Up to 110lbs) Search: “ACCUTECK Postal Shipping Scale” ✅ Helps you print exact postage and avoid overpaying on labels
+
+📄 4x6 Shipping Labels (Thermal) Rollo or Munbyn Compatible 4x6 Labels – 500 Roll Search: “4x6 Thermal Shipping Labels” ✅ Pairs with Rollo, Munbyn, etc.
+
+📦 Poly Mailers (for clothing, light items) Self-Seal Poly Mailers – 10x13 or 12x15 Search: “10x13 Poly Mailers – 100 Pack” ✅ Lightweight, tear-resistant, professional look
+
+📦 Bubble Mailers (for fragile/small items) 6x10 Padded Bubble Mailers Search: “6x10 Bubble Mailers – 50 Pack” ✅ Great for cologne, accessories, smaller pieces
+
+📦 Shipping Boxes (for shoes/heavy items) Priority Mail Shoeboxes (Free from USPS) OR Search: “Corrugated Mailing Boxes – 12x9x4 or 14x10x6” ✅ Ideal for sneakers or bulk orders
+
+🛡️ Packing Tape + Dispenser Heavy Duty Clear Packing Tape with Gun Dispenser Search: “Packing Tape with Dispenser” ✅ Secure your boxes professionally
+
+🧽 Bubble Wrap or Packing Paper Search: “Bubble Wrap Roll for Shipping” ✅ Protects cologne, glass, or higher-ticket items
+
+🖊️ Thank You Cards (optional, but boosts buyer trust) Search: “Thank You Cards for Small Business” ✅ Looks professional, encourages repeat buyers
+
+
+
+Below is the entire blueprint to start from $0 to 3-5k a month
+Our mission at Wings of Fortune is to help people like YOU who are determined and are tired of not doing anything. We don't believe in paying for education so in order to help YOU make your first band we are going to give everything for free. You have ZERO excuses now as to why you can't be making money. Below is my entire guide as someone who went from 0-5k a month in 3 months and my partner ran up 100k on ebay with drop shipping.
+
+
+If you are interested in becoming a supplier and scaling past this to get results like my parter fill out the work with me form at the top of the discord. Spots are limited as we work very closely with our guys so join while you can
+
+(If you don't have 500-1500 to invest don't apply stack up your bread first w all the free info we have given u guys)
+
+MAKE SURE TO STUDY THE ENTIRE BLUEPRINT
+
+
+HEREFOR ANY HELP / QUESTIONS - JOIN Wings of Fortune
+
+Now let's get straight to the point.
+
+Here is a brief overview of the things I’ll be going over:
+
+Building Your Foundation
+
+Expectations
+
+How to do Market Research
+
+High Quality Suppliers
+
+How to get High Quality Suppliers
+
+How to Order Products From Suppliers
+
+How to Leverage Credit
+
+How to Leverage Credit
+
+How to Maximize Sales
+
+What Platforms to List Products On
+
+How to List Products
+
+How to Upsell
+
+How to Build Clientele and Be The Plug
+
+How to Scale
+
+Reinvesting Profits
+
+Systemize Your Process
+
+Bulk Deals
+
+Delegating
+
+Cross Listing Efficiently
+
+Diversifying Your Inventory
+
+Resources
+
+Shipping Resources
+
+Reselling Supplies
+
+1️⃣ Building Your Foundation
+
+Reselling is one of the easiest business models to get into. The concept is simple: buy low, sell high. But that doesn’t mean you’ll get rich overnight. Sales can be slow at first, you may lose money, and you’ll definitely want to quit at some point. That’s all normal.
+
+This is not a get-rich-quick scheme. If you're not willing to put in the work, this guide won't help you. But if you act with speed and consistency, you’ll start making money fast.
+
+"The faster you move, the faster you make money." Everything is laid out for you. Now it’s your turn to execute.
+
+Every successful reseller knows that market research is non-negotiable. You need to identify what brands and products are actually in demand before you buy anything. Otherwise, you’ll be stuck with inventory that doesn’t move.
+
+Top 3 Products to Start With
+
+AirPods (Pro 2 & Gen 4): Apple = consistent demand. Its not saturated, people just don't know how to sell - not good for long term and expect some returns
+
+Cologne: Cheap to source, high resell value. Great examples: Jean Paul Gaultier, YSL, Valentino, Dior
+
+Clothes: High turnover if you know what’s trending. Examples: Chrome Hearts, Hellstar, Denim Tears, Amiri.
+
+Market Research Steps:
+
+Go on platforms like Facebook Marketplace or Ebay. Filter to show only sold these are the best to see what's selling
+
+Look at listings with lots of sales, saves, and views.
+
+Track what sells locally and online — every region is different.
+
+
+SO YOU DON'T MISS IT MAKE A COPY OF THIS IN GOOGLE SHEETS (PREFERABLY DESKTOP)
+This is my personal Reselling Sales Tracking Sheet. Just enter the info and it calculates for you.
+
+CLICK HERE TO GET ACCESS
+
+2️⃣ High Quality Suppliers
+
+If you don’t have:
+
+Great prices
+
+High-quality products
+
+Fast and reliable shipping
+
+3️⃣ How To Order From Suppliers
+Buy in Bulk
+
+Suppliers give better deals the more you buy. Higher quantity = lower price and cheaper shipping per unit. Ask for the MOQ (Minimum Order Quantity) and try ordering slightly above it to lock in better pricing.
+Don't Waste Their Time
+
+Don’t DM asking “what do you sell?” — it makes you look like a rookie. Do your homework first. Know what you want before hitting them up. You can also ask for their catalog but be ready to buy
+Build Real Relationships
+
+A reliable supplier = consistent quality, faster shipping, and even discounts. Once you find a good one, stick with them and keep communication clean.
+Be Professional
+
+Use bullet points, proper grammar, and be specific. Example: “300 pcs, black, logo on left sleeve.” Suppliers respect serious buyers.
+Plan Ahead
+
+Always factor in delays — holidays (especially Chinese New Year), shipping times, and customs. Stay stocked so you’re not scrambling last-minute.
+This is a Business — Act Like It
+
+The pros track their inventory, margins, and build supplier relationships. Don’t bounce around — find what sells, double down, and build systems.
+
+4️⃣How to Leverage Credit
+
+You don’t need thousands to start. Start small — buy one $40 product, flip it for $100, reinvest.
+
+Credit Cards = Cheat Code (if used properly)
+
+Use the bank’s money, not your own.
+
+Always pay your credit card in full to avoid interest.
+
+This is how I scaled fast — by using responsible credit to buy inventory.
+
+
+THIS IS NOT FINANCIAL ADVICE
+
+5️⃣How to Maximize Sales
+
+What Platforms to List Products On
+
+When it comes to listing your products on selling platforms there’s one thing you have to remember. The more eyeballs and attention you have on your product, the more sales youre going to make. The reason most people struggle with sales is because they’re lazy, they don’t want to take the time out of their day to make money and list on all selling platforms. But that's not YOU. LIST ON ALL SELLING PLATFORMS.
+
+The selling platforms consist of:
+
+eBay: Offers consistency and eliminates the need for face-to-face transactions., Buyers often accept listed prices, reducing negotiation efforts., However, be cautious of potential hurdles like account suspensions or listing removals.,
+
+Facebook Marketplace: Popular choice for local sales., Attracts numerous potential buyers.,
+
+Social Media (Instagram, TikTok, Twitter, YouTube, Pinterest, etc.): Often overlooked for sales potential., Effective channels to showcase and sell products.,
+
+StockX: Suitable for selling sneakers and apparel with an authentication process., Successful sales result in decent payouts and swift transactions., Be aware of a 15% fee and potential suspension if authentication fails.,
+
+OfferUp: Solid user base with many success stories., Effective platform for sellers.,
+
+Alias: Reselling application focused on sneakers and apparel., Includes an authentication process.,
+
+Grailed: Unique authentication process allowing buyers to purchase before authentication., Provides a distinct selling experience.,
+
+Mercari: App-based marketplace for clothing, electronics, and more.,
+
+Depop: Specializes in clothing sales., Generates considerable sales volume.,
+
+5miles: Alternative platform for selling items.,
+
+Extras: Poshmark and Vinted
+
+Explore Additional Marketplaces: Diversify your selling strategy by exploring other platforms beyond those listed here.
+
+You don't need ALL of these apps but the more the better
+
+Ex. If you're selling airpods/electronics or fragrances use local apps like FB Marketplace or Offerup since online platforms tend to take listings down more on newer accounts.
+
+Ex. If you’re selling products like clothes,hats, accessories and fragrances you should list on the all the platforms named above. Some platforms are strict with big Designer brands but there is also a method to avoid your listings getting down which will be explained below. Depop is amazing for clothing though
+
+6️⃣How to List Products
+
+Focus on:
+
+Searchable, clear titles
+
+High-quality images
+
+Simple, compelling descriptions
+
+Title Format: [Brand] [Product Name/Model] [Key Feature] [Condition] [Size if needed]
+
+Examples:
+
+AirPods Pro 2nd Gen (USB-C) | NEW & SEALED Don't mention “Apple” for Airpods
+
+Chrome Hearts Cross Hoodie | Size L | Great Condition
+
+Baccarat Rouge 540 70ml | 90% Full
+
+How to Take High Quality Pictures:
+
+Take multiple pictures of your product including the front, back, details, tags or important details that show product authentication or high quality.
+
+Ex. for clothes:
+
+Ex. for AirPods:
+
+IMPORTANT:
+
+List AirPods as used, even if they’re new
+
+List fragrances as testers on Ebay and use stock photos as well to prevent listings from being taken down
+
+How to Add a Description
+
+Use this structure:
+
+Headline (catchy and bold)
+
+Key Features (3–5 bullet points)
+
+Emotional Hook (why they’ll love it)
+
+Social Proof (tester results, reviews)
+
+Scarcity (optional)
+
+Call to Action (what to do next)
+Example:
+
+VVS Moissanite Watch – Bust Down / Brand New
+💎Moissanite Bust down Watch💎
+
+✅ Fully iced with VVS Moissanite
+
+✅ Passes diamond tester
+
+✅ Brand new custom made watch
+
+💸 Asking $1,500
+Comes with box + papers – perfect gift ready to go 🎁
+DM to secure it SELLS OUT FAST📩 Willing to drive out for a meetup 📍
+
+
+How to Avoid Listings Being Taken Down
+
+Tips to Prevent Your Listings from Being Removed or Banned on Marketplaces
+
+Account Age: Let your eBay account mature before listing commonly replicated products. New accounts listing such items can raise suspicion and increase the likelihood of being flagged. Established accounts are less prone to such scrutiny.,
+
+Product Listings: Avoid including serial numbers in your listings, as some suppliers reuse serials that can be identified. Ensure packaging authenticity; for example, genuine Apple AirPods don't come wrapped in plastic due to their eco-friendly packaging. Including such details in photos could lead to your listings being removed and raise buyer concerns.
+
+Sell Genuine Products: Begin by selling authentic products before introducing replicas. Having a mix of genuine items boosts your credibility, even when you start selling replicas.,
+
+Optimize Your Profile: Present yourself as a trustworthy seller with a well-crafted profile. Use a clear profile picture and provide detailed, accurate product descriptions. A professional profile enhances your legitimacy and trustworthiness.,
+By following these recommendations, you can reduce the risk of your listings being removed and establish yourself as a reliable seller in the online marketplace.
+
+
+READOTHER LISTING TIPS AND TRICKS
+
+
+These are some tips not many people mention or talk about
+
+When products don't move - Sell it at what you bought it for. The reason why is because it's MUCH better for you to break even and get your money back instead of being stuck with product that doesn't move at all
+
+This is a weird one but I saw you can use a female PFP to draw in more attention up to you what you do with this info😭
+
+Listings no matter how good they are can sometimes get NO views. To escape zero view jail you need to figure out what the problem is. Maybe you are shadow banned or maybe its low interaction
+
+Escaping zero view jail tips. Have a friend/s message you for your listing AS soon as you post it
+
+Boost your listings. Spend 5 dollars to make 100
+
+List your item as free but in the title mention "SEND BEST OFFER". You might get a lot of BS but the more messages the more your listing gets pushed out to a serious buyer
+
+List in MULTIPLE zip codes nearby you (using diff pics) to maximize visibility
+
+7️⃣ How to Upsell
+
+Sales skill = extra profit.
+
+Bring multiple products to meetups. Be safe about it though
+
+Offer bundles: “Grab 2 and I’ll give you a discount
+Almost every meetup can double your profit if you upsell right.
+
+
+Example:
+Let's say for example you are meeting up with someone who is buying a Hellstar shirt from you. You have the shirt but when you hand it over to him pull out a cologne and say "Yo bro, this cologne is selling super hot right now like people are selling these for 300 right now (Add hype/desire to it). But since you are here already I can give you a discount and sell this cologne for ONLY 120 (Make buyer feel like they got a steal). Imagine if you got a brand new shirt AND a cologne like you would get every girl" (Sell the dream, not the product).
+
+
+A simple 5 SECOND interaction like that could change your profit from 150-300 just like that. You have to remember people don't buy the product for just the product/quality. They want something out of it like the brand name to stand out or the standout scent. Sell them the dream and people will buy whatever you offer.
+
+8️⃣ How To Build A Brand
+
+How to Build Clientele & Be The Plug
+
+Start by dominating a niche:
+
+Watches
+
+Streetwear
+
+Designer Reps
+
+Post content:
+
+Inventory drops
+
+Product pics
+
+Testimonials
+
+Quality proof
+
+Build a VIP List or Close Friends Story
+
+Add loyal buyers or interested leads to a “VIP” Close Friends list on Instagram
+
+Show early drops, discounts, or sneak peeks there
+
+Makes people feel exclusive & more likely to buy
+
+Provide Next-Level Service
+
+Be fast with replies
+
+Offer multiple payment methods
+
+Ship fast or deliver same day (if local)
+
+Always send proof (tester videos, tracking numbers)
+
+Being reliable builds long-term clients who refer their friends.
+
+Hype your drops:
+
+Drop products like it’s a launch: "Only 5 available," “Next restock: next month.”
+
+Use countdowns and sellout updates in your stories.
+Build FOMO: Show people buying, wearing, and DMing you.
+
+Make it seem like a great deal. "Retail $600 - My price $250"
+
+
+ADD A CTA (Call-To-Action) this is EXTREMELY important. The reason why is because most people will see a story/post and move on just like any other. But if you add a CTA like DM me for an exclusive discount code that adds an incentive and standout compared to other posts making you more memorable. By having them DM you as well you can make it seem more personal instead of a salesperson.
+
+Word of Mouth = More Sales
+
+Offer referral bonuses or discounts
+
+Create a commission program, Have others sell for you
+
+9️⃣ How To Scale
+
+Once you’re making sales, scaling is key.
+
+Market Research:
+
+This is the MOST important part of scaling - If you are out of the loop, you won't make as much simple as that
+
+Doing research and staying on top of trends is how you capitalize on BIG profits - Labubus and Golf Clubs are good example
+
+You can do market research by either filtering items sold on ebay/FB or by staying on top of trends/posts for items online
+
+Following authentic resellers is how I find out about this stuff most of the time
+
+Reinvest:
+
+Don’t blow profits. Buy more inventory, better products
+
+Track how fast your items sell — double down on the fastest movers
+
+Systemize:
+
+Listing templates
+
+Photo process
+
+Spreadsheet for tracking sales, COGS, inventory
+
+Cross-list:
+
+Schedule time blocks in your schedule where you dedicate time strictly to listing products
+
+Dedicate 1–2 hours for posting on every platform
+
+Outsource:
+
+Hire a VA or a friend for cheap to help with repetitive work
+
+Bulk Deals
+
+Once you’ve found suppliers or products that sell well: Negotiate with your suppliers and buy in bulk for cheaper price per unit
+
+Offer your customers bulk deals
+
+Build Your Brand:
+
+Post on IG/TikTok
+
+Testimonials, unboxings, styling
+
+Get customers to come to YOU
+
+Use Auto-Responses & Templates
+
+Streamline your DMs/messages by having pre-written responses for:
+
+Pricing
+
+Shipping info
+
+Product details
+
+Upselling (“Want to see more watches like this?”)
+
+Fast replies = more sales.
+
+Diversifying Your Inventory
+
+Don't sell just ONE thing: Invest in better-quality or more unique items (designer reps, moissanite pieces, rare streetwear)
+
+Offer custom bundles or deals
+
+Clients will start seeing you as a plug, not just a flipper
+
+Track The Stats
+
+Which platforms give you the highest ROI?
+
+What products sell the fastest?
+
+This helps you scale efficiently and make data driven decisions; not guess work
+
+🔟 Resources And Supplies
+
+When you're reselling you'll need supplies that can help you save time/cost, by fulfilling orders faster, and cheaper. When you're going through this list keep in mind, not all of this stuff is needed upfront it is a bit of investment so you can buy things as you go. As well there will be cheaper alternatives for these if you would like to look for them, these are just what I purchase/recommend.
+Storage
+
+Having a good storage setup for your inventory is really important as you get more product, you'll need to be more organized so you can easily find product and not have your house looking a mess.
+
+Storage Bins -
+
+https://www.amazon.com/dp/B01MQY0SG9
+
+Storage Shelves -
+
+https://www.amazon.com/dp/B019GNRJPU
+
+https://www.homedepot.com/p/HDX-5-Tier-Steel-Wire-Shelving-Unit-in-Black-36-in-W-x-72-in-H-x-16-in-D-21656PS-1/203846576
+
+Label Printer / Paper Using a label printer will save you a lot of time as you wont have to spend time cutting and taping onto your packages, and you don't need to pay for ink just the paper as they are thermal printers.
+
+(BEST) Rollo Printer -
+
+https://www.amazon.com/Rollo-Wireless-Shipping-Label-Printer/dp/B09VF4Z2WQ
+
+Budget Printer -
+
+https://www.amazon.com/Bluetooth-Thermal-Shipping-Label-Printer/dp/B099MLDBKJ
+
+Rollo Labels -
+
+https://www.amazon.com/dp/B01M9AR01Q
+Packaging Materials
+
+When you're doing online orders, you will need packaging and ways to protect your orders while they're being shipped.
+
+Bubble Wrap -
+
+https://www.amazon.com/dp/B083LGC771
+
+Bubble Mailers -
+
+https://www.amazon.com/Fuxury-Envelopes-Waterproof-Shipping-Packaging/dp/B09P1FDNZ6
+
+Poly Mailers (Reccomended For Clothes) -
+
+https://www.amazon.com/Metronic-14-5x19-Mailers-Envelopes-Shipping/dp/B085Y536X1
+
+Boxes/Packages -
+
+https://www.uline.com/ https://www.supplyhut.com/collections/boxes
+
+**FREE BOXES/POLYMAILERS -
+
+https://store.usps.com/store/results/free-shipping-supplies/shipping-supplies/_/N-alnx4jZ7d0v8v
+
+Bubble Wrap-
+
+https://www.amazon.com/Duck-Original-Cushioning-Perforated-286891/dp/B083LGC771/ref=ast_sto_dp_puis?th=1
+
+Wrapping Paper -
+
+https://www.amazon.com/dp/B079VQWKNT
+
+Tape Gun -
+
+https://www.amazon.com/Tape-King-TX300-Packing-Dispenser/dp/B077GCV6PH Tape Measurer -
+
+https://www.amazon.com/dp/B07MT89MCW?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+Scissors -
+
+https://www.amazon.com/Scissors-inch-Professional-Dressmaking-Dressmakers/dp/B07L6MJQ6S
+
+Scale -
+
+https://www.amazon.com/dp/B00SMHWZ42
+Photo Setup
+
+To have your listings attract more customers, having good photos is key to a good listing, these are some products you can use to have better photos.
+https://www.amazon.com/dp/B088JRN6BGPhoto Backdrop Backboards -
+https://www.amazon.com/XLX-TURF-Artificial-Decorate-Placemat/dp/B0BXGJW7BVGrass Mats -
+
+Ring Light - https://www.amazon.com/dp/B01LXDNNBW
+CHEAP LABELS
+
+https://ship.pirateship.com/ship
+https://goshippo.com
+
+
+
+MAKE IT COUNT
+You now have the full blueprint in your hands…. so make it count
+
+
+Most people won’t take action.
+
+But you’re not most people.
+
+You’ve got the game plan.
+
+You’ve got the product knowledge.
+
+Now it’s time to execute
+
+List Your Item & Set Shipping Preferences 📝 Choose whether to include shipping in the price or charge the buyer separately.
+
+Select your preferred shipping method (e.g., flat-rate, standard delivery, etc.).
+
+Sell & Receive Payment 💸 Once your item sells, the buyer pays for the item and shipping (if applicable).
+Head to the Post Office 🏤 Bring your item to the post office with you.
+
+Ask the clerk for the appropriate packaging (e.g., free boxes or padded envelopes).
+
+Request a Prepaid Shipping Label 🖨️ Let the clerk know you need a prepaid shipping label.
+
+Provide the item details or tracking info so they can print the label for you.
+
+Attach the Label 📋 Securely attach the shipping label to your package (using tape or a plastic holder).
+Drop Off Your Package 📥 Drop your package off at the counter or in the designated drop-off area at the post office.
+Update the Buyer with Tracking 📲 If needed, manually enter the tracking info for your buyer or let the system update it automatically.
+
+By following these steps, you can easily ship your items without needing to worry about supplies or upfront costs! 📦🚚
+
+
+📦 Item Questions
+Q: Is this authentic?
+🅰️ Yes, 100% authentic. I don’t sell fakes or replicas 
+
+Q: Can you send more pictures?
+🅰️ Sure — I’ll upload additional photos shortly. Let me know if there’s a specific angle or detail you want to see.
+
+Q: What’s the condition?
+🅰️ Condition is [New/Like New/Gently Used]. Any flaws will be listed clearly, and what you see is exactly what you’ll receive.
+
+Q: Does it come with the box/tags?
+🅰️ [Yes/No] — [ex: Comes with original box and tags still attached / No box, item only].
+
+Q: Are there any flaws?
+🅰️ Item is in great shape. If there’s anything noticeable, I’ve included it in the description/photos.
+
+📏 Sizing Questions
+Q: How does it fit?
+🅰️ Fits true to size based on standard [brand] sizing. If you're unsure, I recommend checking the brand’s size chart.
+
+Q: Can you give exact measurements?
+🅰️ Sure — [list chest width, length, inseam, etc.]. Let me know if you want any specific areas measured.
+
+Q: What size is it in UK/US/JP?
+🅰️ The tag says [size], which converts to approximately a [UK/US/JP size] based on the brand’s chart.
+
+💸 Price/Offer Questions
+Q: What’s your best price?
+🅰️ I’m open to offers, but I’m already priced below market. Feel free to send a reasonable offer.
+
+Q: Would you take [lower amount]?
+🅰️ I appreciate the offer, but I can’t go that low. I’m already offering a solid price considering the item’s value.
+
+Q: Can you do free shipping?
+🅰️ Shipping is already included in most of my listings. If it’s not, I may be able to work something out depending on your location.
+
+Q: Will you bundle items for a discount?
+🅰️ Yes, if you’re interested in multiple pieces, I can definitely work out a better price or combined shipping.
+
+eBay search = everything. The more optimized your title and description, the more buyers see it. eBay pulls your item into search results based on: Keywords Item specifics Category placement Title structure Description clarity Title Formula: Brand + Item Type + Style + Color + Size + Keywords Example: Essentials Hoodie Fear of God Black Size L 2024 Drop Streetwear Use 80 characters — don’t waste space. No emojis. No fluff. Item Specifics = eBay’s secret weapon This is the box where you fill in: Brand Size Color Type Style Department Theme Material Condition FILL. IT. OUT. eBay uses this data to rank you in filters and boost visibility. Description Tips: Don’t write essays. Buyers skim. Give them the facts: Brand: Chrome Hearts Size: L Color: Black Condition: 9/10 – worn twice, no flaws 100% authentic Ships same or next business day U.S. only Game Plan: Max out your 80-character title with relevant keywords Fill out ALL item specifics, even if it feels repetitive Write a short, confident description — no typos, no slang Mention shipping speed + return policy Match your description info to your photos (build trust)
+
+5. The Biggest Tip For eBay!!!!!
+ If your listing keeps getting taken down and you’ve already tried everything else this tip might just seal the deal.
+When you’re listing the item on eBay, scroll down to the shipping section and select both📦 Delivery and 🚗 Local Pickup.
+Why? Because listings with “Local Pickup” options actually get scanned and filtered way less by eBay’s automated systems. It lowers the chances of your listing being flagged  and in a lot of cases, it can even bypass the “Authenticity Guaranteed” filter, which means you can list designer items without them being automatically reviewed.This one trick has saved so many of my listings  and it’s something most sellers completely overlook.
+
+
+ That's it  those are the 5 game changing steps I’ve personally used to keep my listings live and my business moving.
+Remember, you don’t always need to use every single one  sometimes just one will do the trick. But when you combine them smartly, you give yourself a serious advantage over the average seller who’s still guessing and getting flagged.
+This isn’t about cutting corners  it’s about playing the game the right way and staying a step ahead. I’ve been through the trial and error so you don’t have to.
+Stay smart, stay sharp  and keep flipping.
+
+How to Bypass Authenticity Guaranteed (For Educational Purposes) 
+
+
+ When you're reselling, sometimes the standard rules don’t work in your favor. Here's how to get around certain limitations for educational purposes, of course Step 1: Local pickup & shipping – One of the easiest ways to bypass authenticity guarantees. You control the transaction and keep it simple. Step 2: List as unbranded – This is where you get creative. Set your category as unbranded but keep the title with the brand. You get flexibility in the presentation. Step 3: Price it just under $200 – Drop the price to $199.99. Avoid restrictions and make your listing more appealing.
+
+
+eBay: 
+
+Offers consistency and eliminates the need for face-to-face transactions.
+
+Buyers often accept listed prices, reducing negotiation efforts.However, be cautious of potential hurdles like account suspensions or listing removals. Facebook Marketplace: 
+
+Popular choice for local sales.
+
+Attracts numerous potential buyers. Social Media (Instagram, TikTok, Twitter, YouTube, Pinterest, etc.): 
+
+Often overlooked for sales potential.
+
+Effective channels to showcase and sell products. StockX: 
+
+Suitable for selling sneakers and apparel with an authentication process.
+
+Successful sales result in decent payouts and swift transactions.Be aware of a 15% fee and potential suspension if authentication fails. OfferUp: 
+
+Solid user base with many success stories.
+
+Effective platform for sellers. Alias: 
+
+Reselling application focused on sneakers and apparel.
+
+Includes an authentication process. Grailed: 
+
+Unique authentication process allowing buyers to purchase before authentication.
+
+Provides a distinct selling experience. To trade: 
+
+App-based marketplace for clothing, electronics, and more.
+
+ Depop: 
+
+Specializes in clothing sales.
+
+Generates considerable sales volume. 5miles: 
+
+Alternative platform for selling items.
+
+ Vinted: Explore Additional Marketplaces: 
+
+Diversify your selling strategy by exploring other platforms beyond those listed here.
+
+Join Reddit communities/forums, Engage with rep posts so your feed can show more rep posts, Search for "(product you want) rep/quality/haul/fake", Search through forums thoroughly, If you keep seeing a vendor name being brought up, do research before you buy, Ask for reviews
+
+Tips to Prevent Your Listings from Being Removed or Banned on Marketplaces Account Age: Let your eBay account mature before listing commonly replicated products. New accounts listing such items can raise suspicion and increase the likelihood of being flagged. Established accounts are less prone to such scrutiny., Product Listings: Avoid including serial numbers in your listings, as some suppliers reuse serials that can be identified. Ensure packaging authenticity; for example, genuine Apple AirPods don't come wrapped in plastic due to their eco-friendly packaging. Including such details in photos could lead to your listings being removed and raise buyer concerns. Sell Genuine Products: Begin by selling authentic products before introducing replicas. Having a mix of genuine items boosts your credibility, even when you start selling replicas., Optimize Your Profile: Present yourself as a trustworthy seller with a well-crafted profile. Use a clear profile picture and provide detailed, accurate product descriptions. A professional profile enhances your legitimacy and trustworthiness., By following these recommendations, you can reduce the risk of your listings being removed and establish yourself as a reliable seller in the online marketplace.

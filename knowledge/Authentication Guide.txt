@@ -1,0 +1,293 @@
+Authentication Guide
+Authentication is a term you’ll come across often while reselling replicas. As you
+probably know already, there’s no such thing as a perfect 1:1 replica. Even
+authentic products from the brand itself can have small differences, so it’s no
+surprise that replicas—especially those made by different factories in China—
+will vary. But that doesn’t mean you can’t make your item pass authentication
+checks. In fact, there are ways to bypass certain authentication services and
+even get certificates that help build trust with buyers.
+In this guide, we’ll walk through the main types of authentication services, how
+they work, which ones to avoid, and how to improve your chances of success
+when submitting items. The goal is to help you resell with more confidence and
+fewer issues.
+
+Types of Authentication
+Online Authentication
+Online authentication is more common and easier to trick than in-hand
+verification. That’s because these checks are often done by individuals who rely
+on photos. Social engineering plays a big role here. It’s easier to influence a
+person behind a screen than it is to fool a system or database, which is much
+harder to manipulate.
+Platforms for Online Authentication
+These authentication services cover a wide range of brands and product
+categories.
+• Legit App: A Chinese authentication platform that uses a strong AI
+system backed by two layers of human verification. It’s known to be very
+tough to beat.
+• Legit Check by Ch: This platform looks at a wide range of items across
+different categories. It’s not very popular with buyers and doesn’t always
+gain their trust.
+• CheckCheck: Originally built for sneaker authentication, this service has
+lost credibility. It often flags real items as fake, or fake items as real. Many
+users online have shared complaints.
+There are many smaller platforms, but they’re usually not reliable and don’t
+have enough reputation to be worth your time.
+
+1
+
+Designer Authentication
+Some online services are focused on luxury products like bags and high-end
+clothes. They usually charge more (around $30), but they can be easier to
+trick with the right approach and solid preparation. These platforms often rely
+heavily on the photos and context you provide, so every detail matters.
+• Real Authentication: A widely-used service that works with platforms like
+eBay and Vinted. They often support sellers during PayPal disputes, which
+makes them one of the most useful tools when selling higher-end
+replicas. The base service costs about $30, and you can add a certificate
+for an extra $10. Many users have reported success getting God Factory
+bags through their checks, especially when paired with high-quality
+photos and packaging.
+• Entrupy: This is a premium service used mostly by boutiques. It requires a
+special scanning device and costs around $300 per month. Their
+certificates are digital.
+• ProAuthenticators: A solid backup if Real Authentication rejects your
+item. It’s a bit more affordable and not as strict, which makes it useful for
+slightly riskier items. Many sellers use it as a fallback option when their
+first attempt doesn’t go through.
+
+In-Hand Authentication
+This kind of check happens when platforms like eBay, Vinted, or Poshmark
+offer to verify the item physically before it reaches the buyer. These services
+usually occur after payment is processed and act as a final verification step.
+How your product is presented during this process can make or break the
+sale.
+•
+•
+•
+
+eBay: Available in certain countries. Items that pass get a blue tag and the
+label “Authenticity Guarantee.”
+Vinted: Offers optional authentication. They’ve been known to mistakenly
+approve replicas, especially handbags.
+Poshmark: Has a poor track record. Items like God Factory Louis Vuitton
+bags often pass without issue, especially if you provide a certificate or
+receipt.
+
+Buyer Authentication
+Sometimes, buyers will question the authenticity of an item after they receive
+it. If this happens, it’s called buyer authentication. In these cases, having a
+certificate from a trusted platform (like one PayPal respects) can help you win
+the case. If you don’t have anything to back up your claim, it’s often better to
+offer a return to protect your account from suspension.
+
+2
+
+If a buyer challenges authenticity:
+•
+•
+•
+
+If you have a certificate from a reputable platform (eBay, PayPal-trusted),
+escalate the claim. This significantly increases your chances of winning.
+If you're unable to justify the item's authenticity or the buyer is insistent,
+it’s often better to accept a return rather than risking account suspension
+If a buyer claims that a Louis Vuitton boutique told them the item is fake,
+do not take their word at face value. Luxury boutiques do not officially
+authenticate items for two main reasons:
+1. Giving out authentication results can damage the brand’s image
+and liability.
+2. Authentication usually only happens in specific circumstances:
+•
+•
+
+If the item is brought in for repair and it’s found to be a
+counterfeit, they may refuse the service.
+If a buyer has a close relationship with a sales associate (SA),
+they may give an informal opinion off-the-record—but this is
+rare and not official.
+
+Sales assistants may give out business cards and even WhatsApp contact
+details, but this does not count as official store verification.
+By understanding these common tactics and knowing how these services work
+behind the scenes, you’ll be better prepared to respond when disputes
+happen and improve your overall success rate in buyer situations.
+
+Bypassing Authentication
+Sometimes, no matter how much you prepare, your item might still fail. That’s
+just part of the game when working with replicas. Not all authenticators are
+equal, and not all items—no matter how well-made—will get through. However,
+there are proven strategies that can significantly improve your chances. These
+involve careful preparation, choosing the right authentication service, and
+crafting a strong, believable context around the item. Think of it less as 'getting
+lucky' and more as building a smart system to consistently pass checks.
+
+Preparing the Items
+You should never start an authentication unless you have the following:
+•
+•
+•
+•
+
+3
+
+Item
+Receipt
+Packaging
+Accessories
+
+Your goal is to recreate the full experience of receiving a luxury item. For
+bags and shoes, this means branded dust bags, ribbon, authenticity cards
+(if real or high-quality replicas), and appropriate labeling. For clothing, tags
+and plastic sleeves with size stickers can help. Even a small difference in
+how the item is packed can affect whether it passes or fails.
+Note:Avoid using fake StockX tags. These are oversaturated, and having
+a StockX tag without other StockX accessories is an instant giveaway.
+
+What Can You Do Instead?
+Avoid using fake StockX tags. These are everywhere now and often get
+flagged right away. If you want to include something extra, go for an old
+eBay tag or a thank-you card that matches your receipt.
+For more details, refer to our Packaging Guide.
+
+Authenticating Bags
+1. Choosing the Right Service
+•
+•
+
+Start with Real Authentication.
+If your item doesn’t pass, go for ProAuthenticators.
+
+2. Take proper Photos
+•
+•
+•
+•
+
+Your pictures are the most important part. You want your setup to
+look like it belongs to someone who buys luxury goods.
+Place the bag on a marble counter or use a background that shows
+taste, like a designer blanket.
+Since bags are checked by people, the way you present your item
+matters.
+Avoid:
+•
+•
+
+•
+
+Blurry photos
+Low-quality backgrounds (e.g., bedsheets)
+
+Lightingis crucial:The canvas should have the right level of shine—
+not too matte, not too glossy.
+
+3. Deal With the Chip Issue:
+•
+•
+
+4
+
+Chips from God Factory with a “:5C:” scan code are now easily
+recognized as fake.
+One workaround is to include a screenshot from a real retail bag
+instead.
+
+Submitting the Check
+Before you submit the item for authentication, it helps to include a short, wellthought-out note. This isn’t required, but it adds a human layer that can sway the
+person reviewing your case. Use storytelling to your advantage. For example,
+pretend you’re a woman clearing out her designer wardrobe and you need this
+authenticated quickly because the buyer is pushing for shipment.
+Since most services have a 24-hourturnaround, you can enhance your
+chances with social engineering:
+•
+•
+
+Around the 23rd hour, message the authenticators with a SE (social
+engineering) plan.
+Example:
+
+Claim the bag was purchased in “X” location.
+• Mention that you uploaded the receipt.
+• Say you need the result quickly because your buyer is waiting, and
+you must ship the bag soon.
+However, this method may become oversaturated, so be creative in crafting
+your own SE strategy.
+•
+
+Final Result: Authentication & Selling
+•
+
+If your item passes, download the authentication certificate in PDF format and
+store it in your files for future disputes or buyer reassurance. A clean
+certificate can help resolve returns or PayPal issues instantly. Some sellers
+also print it out and include it in the package to reinforce legitimacy.
+
+•
+
+If your item fails, don’t panic. It doesn’t mean it’s unsellable. In most cases,
+you can still move the item on platforms that don’t require authentication
+—especially if your photos, description, and packaging are convincing.
+Remember, most buyers aren’t professionals. They won’t scrutinize fine
+details or scan chips the way an authenticator would. Presentation often
+wins over perfection, so don't waste the opportunity just because of one
+denial.
+
+Authenticating Other Items
+For sneakers and clothing, the same principles apply—only the packaging
+expectations differ. With sneakers, you want to include the original-style box,
+any sizing labels, and accessories like extra laces or tags. For clothing, hang tags,
+size stickers, folded presentation, and store bags make a big difference.
+Some sellers even create their own “proof of purchase” setups. This might
+involve combining a real thank-you card from a past order with a printed
+receipt and an edited packing slip.
+5
+
+These are soft authenticity signals that, when bundled together, make the item
+appear far more legitimate—even without official verification.
+
+In-Hand Authentication
+When selling on platforms that offer in-hand authentication like eBay, Vinted, or
+Poshmark, your success depends almost entirely on first impressions. These
+inspections are quick, and the staff conducting them often make snap
+judgments. That means everything needs to be perfect the moment they open
+the box.
+• Keep all items in smoke-free, scent-free, and pet-free environments.
+Odors or stray hairs will raise doubts.
+• Include all necessary accessories: dust bags, tags, cards, receipts.
+• Use proper packaging: real branded boxes, tissue paper, and even
+stickers. Avoid plastic wrapping that looks low-effort.
+• Make sure the item smells fresh and feels premium. Some sellers
+lightly spray the inside of the box with a neutral, luxury-like scent.
+By maintaining a luxury presentation, you increase the chances of passing
+authentication and making a successful sale.
+
+Overview
+Even though authentication services have become more advanced over time,
+especially with AI and chip verification, they are still built and operated by
+humans. That means they can be tricked, especially when the overall experience
+and details are polished. You don’t need to fool the system—you just need to
+satisfy the person reviewing your case.
+In The Program, tools like the Legit App Emulator help prepare images or mimic
+verification steps for basic platforms. But caution is key—some QR codes can
+backfire if buyers scan them and see mismatched info. Only use verification
+tools when absolutely necessary, and never overuse templates that could
+become common or suspicious.
+Luxury brands are evolving too. Louis Vuitton and Chanel have shifted from serial
+numbers to embedded NFC chips. High-end factories are catching up by cloning
+these chips, but inconsistencies still exist. Some work with mobile scan apps,
+while others only pass visual inspection.
+Ultimately, your job is to package the item with care, align every detail—from tags
+to text—and make sure no part of the process raises questions. Replicas don’t
+need to be flawless to sell—they need to feel flawless in the buyer’s hands.
+
+6
+
+Tips
+• Stay away from AI-powered systems—they’re hard to fool.
+• Printed thermal receipts are more believable than email ones.
+• Follow this guide carefully and you’ll improve your chances of selling
+smoothly without problems
+
+7
+
+
