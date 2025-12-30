@@ -40,7 +40,7 @@ if os.path.exists(DATA_FOLDER):
         # Create the Brain using FastEmbed (Lightweight & Fast)
         print(f"Indexing {len(chunks)} knowledge chunks...")
         # This downloads a tiny 100MB model instead of the 2GB one
-        embeddings = FastEmbedEmbeddings(model_name="BAAI/bge-small-en-v1.5")
+        embeddings = FastEmbedEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
         vector_store = FAISS.from_documents(chunks, embeddings)
         print("SUCCESS: Knowledge Index Created!")
     else:
