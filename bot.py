@@ -54,71 +54,18 @@ except Exception as e:
     vector_store = None
 
 # --- 2. SETUP CLIENTS ---
+print("Setting up Discord intents...")
 intents = discord.Intents.default()
 intents.message_content = True
+
+print("Creating Discord client...")
 client = discord.Client(intents=intents)
 
-groq_client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
-
-@client.event
-async def on_ready():
-    print(f'Logged in as {client.user}')
-
-@client.event
-async def on_message(message):
-    if message.author == client.user:
-        return
-
-    if client.user in message.mentions:
-        print(f"Msg from {message.author}: {message.content}") 
-        user_question = message.content.replace(f'<@{client.user.id}>', '').strip()
-        
-        try:
-            async with message.channel.typing():
-                # A. SEARCH
-                context_text = ""
-                if vector_store:
-                    results = vector_store.similarity_search(user_question, k=4)
-                    for res in results:
-                        context_text += res.page_content + "\n\n"
-                
-                # B. THINK
-                system_prompt = f"""You are an expert Reselling Assistant. 
-                Use the following retrieved context to answer the user's question.
-                
-                CONTEXT FROM DATABASE:
-                {context_text}
-                
-                INSTRUCTIONS:
-                1. Answer STRICTLY based on the Context.
-                2. If the answer is not in the Context, say "I don't have that info."
-                """
-
-                completion = groq_client.chat.completions.create(
-                    messages=[
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": user_question}
-                    ],
-                    model=MODEL_NAME, 
-                )
-                
-                response = completion.choices[0].message.content
-                
-                # C. REPLY
-                if len(response) > 2000:
-                    for i in range(0, len(response), 2000):
-                        await message.channel.send(response[i:i+2000])
-                else:
-                    await message.channel.send(response)
-                    
-        except Exception as e:
-            print(f"ERROR: {e}")
-            await message.channel.send(f"System Error: {e}")
-
+print(f"Initializing Groq client with API key: {os.environ.get('GROQ_API_KEY')[:10] if os.environ.get('GROQ_API_KEY') else 'NOT SET'}...")
 try:
-    print("Attempting to connect to Discord...")
-    client.run(os.environ.get("DISCORD_TOKEN"))
+    groq_client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+    print("Groq client initialized successfully!")
 except Exception as e:
-    print(f"FATAL ERROR: Failed to run bot: {e}")
+    print(f"ERROR initializing Groq client: {e}")
     import traceback
     traceback.print_exc()
