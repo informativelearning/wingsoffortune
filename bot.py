@@ -112,4 +112,10 @@ async def on_message(message):
             print(f"ERROR: {e}")
             await message.channel.send(f"System Error: {e}")
 
-client.run(os.environ.get("DISCORD_TOKEN"))
+try:
+    print("Attempting to connect to Discord...")
+    client.run(os.environ.get("DISCORD_TOKEN"))
+except Exception as e:
+    print(f"FATAL ERROR: Failed to run bot: {e}")
+    import traceback
+    traceback.print_exc()
