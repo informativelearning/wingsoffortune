@@ -19,35 +19,38 @@ print("--- BOT STARTING UP (FastEmbed Edition) ---")
 
 # --- 1. SETUP KNOWLEDGE BASE ---
 documents = []
+vector_store = None
 
-if os.path.exists(DATA_FOLDER):
-    print(f"Scanning folder: {DATA_FOLDER}...")
-    for filename in os.listdir(DATA_FOLDER):
-        if filename.endswith(".txt"):
-            file_path = os.path.join(DATA_FOLDER, filename)
-            try:
-                print(f"Loading: {filename}")
-                loader = TextLoader(file_path, encoding="utf-8")
-                documents.extend(loader.load())
-            except Exception as e:
-                print(f"Failed to load {filename}: {e}")
+try:
+    if os.path.exists(DATA_FOLDER):
+        print(f"Scanning folder: {DATA_FOLDER}...")
+        for filename in os.listdir(DATA_FOLDER):
+            if filename.endswith(".txt"):
+                file_path = os.path.join(DATA_FOLDER, filename)
+                try:
+                    print(f"Loading: {filename}")
+                    loader = TextLoader(file_path, encoding="utf-8")
+                    documents.extend(loader.load())
+                except Exception as e:
+                    print(f"Failed to load {filename}: {e}")
 
-    if documents:
-        # Split text into chunks
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
-        chunks = text_splitter.split_documents(documents)
-        
-        # Create the Brain using FastEmbed (Lightweight & Fast)
-        print(f"Indexing {len(chunks)} knowledge chunks...")
-        # This downloads a tiny 100MB model instead of the 2GB one
-        embeddings = FastEmbedEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-        vector_store = FAISS.from_documents(chunks, embeddings)
-        print("SUCCESS: Knowledge Index Created!")
+        if documents:
+            print(f"Indexing {len(documents)} documents...")
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+            chunks = text_splitter.split_documents(documents)
+            
+            print(f"Creating embeddings for {len(chunks)} chunks...")
+            embeddings = FastEmbedEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+            vector_store = FAISS.from_documents(chunks, embeddings)
+            print("SUCCESS: Knowledge Index Created!")
+        else:
+            print("WARNING: No .txt files found in knowledge folder!")
     else:
-        print("WARNING: No .txt files found in knowledge folder!")
-        vector_store = None
-else:
-    print(f"WARNING: Folder '{DATA_FOLDER}' not found.")
+        print(f"WARNING: Folder '{DATA_FOLDER}' not found.")
+except Exception as e:
+    print(f"CRITICAL ERROR during knowledge base setup: {e}")
+    import traceback
+    traceback.print_exc()
     vector_store = None
 
 # --- 2. SETUP CLIENTS ---
