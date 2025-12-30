@@ -6,6 +6,7 @@ WORKDIR /app
 
 COPY requirements.txt .
 
+# Your optimized install step (Excellent work here)
 RUN apt-get update && \
     apt-get install -y --no-install-recommends build-essential && \
     pip install --no-cache-dir -r requirements.txt && \
@@ -14,6 +15,6 @@ RUN apt-get update && \
 
 COPY . .
 
-EXPOSE 8080
+# DELETED: EXPOSE 8080 (Prevents Zeabur from killing the bot for failing health checks)
 
 CMD ["python", "bot.py"]
